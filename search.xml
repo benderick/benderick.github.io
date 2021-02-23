@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>测试</title>
-    <url>/2021/02/23/%E6%B5%8B%E8%AF%95/</url>
+    <url>/uncategorized/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
 <p><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3412564135,1876356398&amp;fm=26&amp;gp=0.jpg" alt="hi"></p>
 <table>
@@ -33,8 +33,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>lalala</title>
+    <url>/uncategorized/lalala/</url>
+    <content><![CDATA[<p>gjkljsgljsgl;</p>
+<p>jfadkljfal;j</p>
+]]></content>
+  </entry>
+  <entry>
     <title>hi</title>
-    <url>/2021/02/23/hi/</url>
+    <url>/uncategorized/hi/</url>
     <content><![CDATA[<h2 id="静静"><a href="#静静" class="headerlink" title="静静"></a>静静</h2><ol>
 <li>我</li>
 <li>好</li>
@@ -46,7 +53,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2021/02/23/hello-world/</url>
+    <url>/uncategorized/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
 
