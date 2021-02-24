@@ -1,4 +1,0 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
-<script src="./stars.js"></script>
-
-<link rel="stylesheet" type="text/css" href="./stars.css">
