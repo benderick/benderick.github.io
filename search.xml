@@ -3,6 +3,18 @@
   <entry>
     <title>hello, world</title>
     <url>/archives/ffab723a.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="关于本站"><a class="markdownIt-Anchor" href="#关于本站"></a> 关于本站</h2>
+<p>本站使用Hexo搭建，由GitHub托管，以.fun作为域名，nexT作为主题，用Markdown生成文档。</p>
+<h2 id="本站用来干什么"><a class="markdownIt-Anchor" href="#本站用来干什么"></a> 本站用来干什么</h2>
+<ul>
+<li>用来记录学习</li>
+<li></li>
+</ul>
+<h2 id="本站不用来干什么"><a class="markdownIt-Anchor" href="#本站不用来干什么"></a> 本站不用来干什么</h2>
+<ul>
+<li>不用来</li>
+<li></li>
+</ul>
+]]></content>
   </entry>
 </search>
