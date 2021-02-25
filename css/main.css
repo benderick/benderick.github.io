@@ -396,31 +396,28 @@ td {
   margin-top: 3px;
 }
 .toggle.toggle-arrow .toggle-line-first {
-  left: 50%;
   top: 2px;
-  transform: rotate(45deg);
+  transform: rotate(-45deg);
   width: 50%;
 }
 .toggle.toggle-arrow .toggle-line-middle {
-  left: 2px;
   width: 90%;
 }
 .toggle.toggle-arrow .toggle-line-last {
-  left: 50%;
   top: -2px;
-  transform: rotate(-45deg);
+  transform: rotate(45deg);
   width: 50%;
 }
 .toggle.toggle-close .toggle-line-first {
-  transform: rotate(-45deg);
   top: 5px;
+  transform: rotate(-45deg);
 }
 .toggle.toggle-close .toggle-line-middle {
   opacity: 0;
 }
 .toggle.toggle-close .toggle-line-last {
-  transform: rotate(45deg);
   top: -5px;
+  transform: rotate(45deg);
 }
 .highlight-container {
   position: relative;
@@ -1234,7 +1231,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a81aff;
+  background: #ffffeb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2404,10 +2401,24 @@ embed {
   display: inline-block;
 }
 .sidebar {
-  left: -320px;
+  right: -320px;
 }
 .sidebar.sidebar-active {
-  left: 0;
+  right: 0;
+}
+.sidebar-toggle,
+.back-to-top {
+  left: auto;
+  right: 30px;
+}
+@media (max-width: 991px) {
+  .sidebar-toggle,
+  .back-to-top {
+    right: 20px;
+  }
+}
+.book-mark-link {
+  left: 30px;
 }
 .sidebar {
   width: 320px;
@@ -2620,9 +2631,6 @@ body {
 .header-inner {
   background: #fff;
 }
-.site-title {
-  font-size: 30px;
-}
 .sidebar-inner {
   background: #222;
 }
@@ -2637,19 +2645,22 @@ body {
   -webkit-box-shadow: 0 0 5px #cacbcb;
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
+.sidebar-toggle {
+  top: 25px;
+}
 .moon-menu,
 .moon-menu-bg,
 .moon-menu-content {
   position: fixed;
   right: 20px;
   bottom: 20px;
-  width: 4em;
-  height: 4em;
+  width: 2em;
+  height: 2em;
   z-index: 999;
 }
 .moon-menu-button {
-  width: 4em;
-  height: 4em;
+  width: 2em;
+  height: 2em;
   cursor: pointer;
 }
 .moon-menu-cricle {
@@ -2665,8 +2676,8 @@ body {
   transform-origin: 50% 50%;
 }
 .moon-menu-icon {
-  font-size: 2.5em;
-  line-height: 1.6em;
+  font-size: 1em;
+  line-height: 2em;
   color: var(--color, #fff);
   text-align: center;
 }
@@ -2682,16 +2693,16 @@ body {
   color: var(--color, #fff);
   font-weight: 400;
   text-align: center;
-  line-height: 3.2em;
-  font-size: 1.2em;
+  line-height: 4em;
+  font-size: 0.5em;
   display: none;
 }
 .moon-menu-item {
   position: absolute;
   top: 1em;
   left: 1em;
-  width: 2.5em;
-  height: 2.5em;
+  width: 2em;
+  height: 2em;
   border-radius: 50%;
   background-color: var(--moon-item-bg-color, #000);
   opacity: 0;
@@ -2699,7 +2710,7 @@ body {
   transition: all 0.3s cubic-bezier(0, 0, 0.382, 1.618);
   z-index: -1;
   text-align: center;
-  line-height: 2.5em;
+  line-height: 2em;
   color: var(--color, #fff);
   cursor: pointer;
 }
