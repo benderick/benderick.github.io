@@ -983,7 +983,7 @@ pre .javascript .function {
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 900px;
 }
 @media (min-width: 1200px) {
   .main-inner {
@@ -1231,7 +1231,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #793d0f;
+  background: #ffe071;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2681,9 +2681,6 @@ article.post-block {
   background: rgba(255,255,255,0.5) none repeat scroll !important;
   -webkit-box-shadow: 0 0 5px #cacbcb;
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-.main-inner {
-  width: 1000px;
 }
 .moon-menu,
 .moon-menu-bg,
