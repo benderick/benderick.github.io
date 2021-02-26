@@ -1231,7 +1231,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fa6e74;
+  background: #793d0f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1356,7 +1356,7 @@ pre .javascript .function {
   background: #87daff;
 }
 .post-toc {
-  font-size: 0.875em;
+  font-size: 1em;
 }
 .post-toc ol {
   list-style: none;
@@ -2605,11 +2605,13 @@ div.post-block.tag .collection-title h2 {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 body {
-  background: #fff;
+  background: #eef5fe;
 }
+/*
 .sidebar-inner {
   background: rgba(255,255,255,0.8);
 }
+*/
 .header-inner {
   background: rgba(255,255,255,0.8);
 }
@@ -2626,16 +2628,27 @@ body {
 }
 .brand {
   color: #000;
-  background: #fff;
+  background: #eef5fe;
 }
 .header-inner {
-  background: #fff;
+  background: #eef5fe;
 }
-.sidebar-inner {
-  background: #222;
+.site-author-name,
+.site-description {
+  color: #222;
 }
-.sidebar.sidebar-active {
-  background: $white;
+.site-author-image {
+  margin-top: 10px;
+  border: none;
+  box-shadow: 0 0 20px #999;
+}
+.sidebar a,
+.sidebar-nav > li,
+.post-toc ol a {
+  color: #222;
+}
+.sidebar {
+  background-color: rgba(255,255,255,0.72);
 }
 .sidebar-toggle {
   top: 25px;
@@ -2646,8 +2659,6 @@ body {
 .btn {
   background: #fff;
   color: #222;
-}
-aside.sidebar.sidebar-active {
   opacity: 0.6;
 }
 span.exturl {
@@ -2670,6 +2681,9 @@ article.post-block {
   background: rgba(255,255,255,0.5) none repeat scroll !important;
   -webkit-box-shadow: 0 0 5px #cacbcb;
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+.main-inner {
+  width: 1000px;
 }
 .moon-menu,
 .moon-menu-bg,
