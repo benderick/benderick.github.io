@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>hello, world</title>
-    <url>/archives/ffab723a.html</url>
+    <url>/archives/seourl.html</url>
     <content><![CDATA[<h2 id="关于本站"><a class="markdownIt-Anchor" href="#关于本站"></a> 关于本站</h2>
 <p>本站使用Hexo搭建，由GitHub Pages托管，以.fun作为域名，NexT作为主题，用Markdown生成文档。</p>
 <h2 id="本站用来干什么"><a class="markdownIt-Anchor" href="#本站用来干什么"></a> 本站用来干什么</h2>
@@ -15,6 +15,253 @@
 <li>不用来</li>
 <li></li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Foundations of Computing</title>
+    <url>/archives/CS1.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Introduction to Computing</title>
+    <url>/archives/CS0.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>收藏</title>
+    <url>/archives/star.html</url>
+    <content><![CDATA[<h3 id="搜索"><a class="markdownIt-Anchor" href="#搜索"></a> 搜索</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>虫部落-快搜</td>
+<td>综合搜索</td>
+<td><a href="https://search.chongbuluo.com/">search.chongbuluo.com</a></td>
+</tr>
+<tr>
+<td>世界喵兔</td>
+<td>图书综合搜索</td>
+<td><a href="https://www.worldmiao.com/">worldmiao.com</a></td>
+</tr>
+<tr>
+<td>Z-Library</td>
+<td>图书</td>
+<td><a href="https://cn1lib.org">cn1lib.org</a></td>
+</tr>
+<tr>
+<td>全国图书馆参考咨询联盟</td>
+<td>图书</td>
+<td><a href="http://www.ucdrs.superlib.net/">ucdrs.superlib.net</a></td>
+</tr>
+<tr>
+<td>鸠摩搜索</td>
+<td>图书</td>
+<td><a href="https://www.jiumodiary.com/">jiumodiary.com</a></td>
+</tr>
+<tr>
+<td>学兔兔</td>
+<td>教材搜索</td>
+<td><a href="http://www.bzfxw.com/search.html">bzfxw.com/search</a></td>
+</tr>
+<tr>
+<td>图灵社区</td>
+<td>图灵图书</td>
+<td><a href="https://m.ituring.com.cn/">m.ituring.com.cn</a></td>
+</tr>
+<tr>
+<td>异步社区</td>
+<td>异步图书</td>
+<td><a href="https://www.epubit.com/">epubit.com</a></td>
+</tr>
+<tr>
+<td>华章图书</td>
+<td>华章图书</td>
+<td><a href="http://www.hzbook.com/index.php/Book/search.html">hzbook.com/</a></td>
+</tr>
+<tr>
+<td>联图云-光盘</td>
+<td>随书光盘</td>
+<td><a href="http://discx.yuntu.io/">discx.yuntu.io</a></td>
+</tr>
+<tr>
+<td>大数据导航</td>
+<td>数据统计相关</td>
+<td><a href="http://hao.199it.com/">hao.199it.com</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="开发"><a class="markdownIt-Anchor" href="#开发"></a> 开发</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GNU</td>
+<td>GNU操作系统和自由软件运动</td>
+<td><a href="http://www.gnu.org/">www.gnu.org</a></td>
+</tr>
+<tr>
+<td>菜鸟教程</td>
+<td>入门教程、在线编译、前端工具</td>
+<td><a href="https://c.runoob.com/">c.runoob.com</a></td>
+</tr>
+<tr>
+<td>廖雪峰的官方网站</td>
+<td>入门教程</td>
+<td><a href="https://www.liaoxuefeng.com/">www.liaoxuefeng.com</a></td>
+</tr>
+<tr>
+<td>博客园</td>
+<td>技术博客</td>
+<td><a href="https://www.cnblogs.com/">cnblogs.com</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="文档"><a class="markdownIt-Anchor" href="#文档"></a> 文档</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Racket</td>
+<td></td>
+<td><a href="https://racket-lang.org/">racket-lang.org</a></td>
+</tr>
+<tr>
+<td>HTDP</td>
+<td>本书在线版</td>
+<td><a href="https://htdp.org/">htdp.org</a></td>
+</tr>
+<tr>
+<td>MDN Web文档</td>
+<td>Web开发者</td>
+<td><a href="https://developer.mozilla.org/zh-CN/">developer.mozilla.org</a><a href=""></a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="人物"><a class="markdownIt-Anchor" href="#人物"></a> 人物</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>裘宗燕 :: Qiu Zongyan</td>
+<td></td>
+<td><a href="http://www.math.pku.edu.cn/teachers/qiuzy/">math.pku.edu.cn/teachers/qiuzy</a></td>
+</tr>
+<tr>
+<td>当然我在扯淡</td>
+<td>王垠的博客，微博</td>
+<td><a href="http://www.yinwang.org/#">www.yinwang.org</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="翻译-语言"><a class="markdownIt-Anchor" href="#翻译-语言"></a> 翻译、语言</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>谷歌翻译</td>
+<td></td>
+<td><a href="https://translate.google.cn/">translate.google.cn</a></td>
+</tr>
+<tr>
+<td>百度翻译</td>
+<td></td>
+<td><a href="https://fanyi.baidu.com/">fanyi.baidu.com</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="网课"><a class="markdownIt-Anchor" href="#网课"></a> 网课</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>说明</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中国大学MOOC</td>
+<td>国家精品课程在线学习平台</td>
+<td><a href="https://www.icourse163.org/">icourse163.org</a></td>
+</tr>
+<tr>
+<td>爱课程</td>
+<td></td>
+<td><a href="http://www.icourses.cn/home/">icourses.cn</a></td>
+</tr>
+<tr>
+<td>学堂在线</td>
+<td></td>
+<td><a href="https://www.xuetangx.com/">xuetangx.com</a></td>
+</tr>
+<tr>
+<td>edx</td>
+<td></td>
+<td><a href="https://courses.edx.org/">courses.edx.org</a></td>
+</tr>
+<tr>
+<td>coursera</td>
+<td></td>
+<td><a href="https://www.coursera.org/">coursera.org</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 ]]></content>
   </entry>
 </search>
