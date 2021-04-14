@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello, world</title>
-    <url>/archives/seourl.html</url>
-    <content><![CDATA[<h2 id="关于本站"><a class="markdownIt-Anchor" href="#关于本站"></a> 关于本站</h2>
-<p>本站使用Hexo搭建，由GitHub Pages托管，以.fun作为域名，NexT作为主题，用Markdown生成文档。</p>
-<h2 id="本站用来干什么"><a class="markdownIt-Anchor" href="#本站用来干什么"></a> 本站用来干什么</h2>
-<ul>
-<li>用来记录学习</li>
-<li></li>
-</ul>
-<h2 id="本站不用来干什么"><a class="markdownIt-Anchor" href="#本站不用来干什么"></a> 本站不用来干什么</h2>
-<ul>
-<li>不用来</li>
-<li></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>Foundations of Computing</title>
     <url>/archives/CS1.html</url>
     <content><![CDATA[]]></content>
@@ -262,6 +245,23 @@
 </tr>
 </tbody>
 </table>
+]]></content>
+  </entry>
+  <entry>
+    <title>hello, world</title>
+    <url>/archives/helloworld.html</url>
+    <content><![CDATA[<h2 id="关于本站"><a class="markdownIt-Anchor" href="#关于本站"></a> 关于本站</h2>
+<p>本站使用Hexo搭建，由GitHub Pages托管，以.fun作为域名，NexT作为主题，用Markdown生成文档。</p>
+<h2 id="本站用来干什么"><a class="markdownIt-Anchor" href="#本站用来干什么"></a> 本站用来干什么</h2>
+<ul>
+<li>用来记录学习</li>
+<li></li>
+</ul>
+<h2 id="本站不用来干什么"><a class="markdownIt-Anchor" href="#本站不用来干什么"></a> 本站不用来干什么</h2>
+<ul>
+<li>不用来</li>
+<li></li>
+</ul>
 ]]></content>
   </entry>
 </search>
