@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>CS0 2. 语言</title>
+    <url>/archives/CS0-2.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>CS0 1. 计算</title>
+    <url>/archives/CS-1.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>CS0 0. 引言</title>
+    <url>/archives/CS0-0.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Foundations of Computing</title>
     <url>/archives/CS1.html</url>
     <content><![CDATA[]]></content>
@@ -8,7 +23,18 @@
   <entry>
     <title>Introduction to Computing</title>
     <url>/archives/CS0.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="目录"><a class="markdownIt-Anchor" href="#目录"></a> 目录</h2>
+<ol start="0">
+<li><a href="http://benderick.fun/archives/CS0-0.html">引言</a></li>
+<li><a href="http://benderick.fun/archives/CS0-1.html">计算</a></li>
+<li><a href="http://benderick.fun/archives/CS0-2.html">语言</a></li>
+<li>编程</li>
+<li>问题和过程</li>
+<li>数据</li>
+<li>机器</li>
+<li></li>
+</ol>
+]]></content>
   </entry>
   <entry>
     <title>收藏</title>
