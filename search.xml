@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>CS0 2. 语言</title>
+    <title>2. 语言</title>
     <url>/archives/CS0-2.html</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>Introduction to Computing</category>
+      </categories>
   </entry>
   <entry>
-    <title>CS0 1. 计算</title>
-    <url>/archives/CS-1.html</url>
+    <title>1. 计算</title>
+    <url>/archives/CS0-1.html</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>Introduction to Computing</category>
+      </categories>
   </entry>
   <entry>
-    <title>CS0 0. 引言</title>
+    <title>0. 引言</title>
     <url>/archives/CS0-0.html</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>Introduction to Computing</category>
+      </categories>
   </entry>
   <entry>
     <title>Foundations of Computing</title>
