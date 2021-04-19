@@ -10,8 +10,39 @@
   </entry>
   <entry>
     <title>1. 计算</title>
-    <url>/archives/CS0-1.html</url>
-    <content><![CDATA[]]></content>
+    <url>/archives/CS0.html</url>
+    <content><![CDATA[<h2 id="概念列表"><a class="markdownIt-Anchor" href="#概念列表"></a> 概念列表</h2>
+<ul>
+<li>认识、经验、知识</li>
+<li>对象</li>
+<li>状态，动作</li>
+<li>形式，意义</li>
+<li>信息，数据</li>
+<li></li>
+</ul>
+<h2 id="10-引子"><a class="markdownIt-Anchor" href="#10-引子"></a> 1.0 引子</h2>
+<h2 id="11-认识-经验与知识"><a class="markdownIt-Anchor" href="#11-认识-经验与知识"></a> 1.1 认识、经验与知识</h2>
+<p><strong>对象</strong>：万物皆对象。e. g. 外星人，1999事件，世界，数…</p>
+<p><strong>认识</strong>：我们用五官感知世界，用头脑理解世界，形成了一些什么是什么、什么怎么做的认识。</p>
+<p><strong>经验</strong>：经过</p>
+<p><strong>知识</strong>：可理解的、经过较长时间检验的、达成共识的、形成体系的认识我们称之为知识。</p>
+<h3 id="111-知识"><a class="markdownIt-Anchor" href="#111-知识"></a> 1.1.1 知识</h3>
+<p>概括起来，知识可以分为两种：是什么的知识和怎么做的知识，分别涉及了对象的状态和动作。</p>
+<p>e. g.   …的大小是什么，…的年龄是什么，…</p>
+<p>状态：</p>
+<p>动作：（执行者，接收者，效果），动作的执行者和接收者都是对象，</p>
+<p>动作可</p>
+<p>原子动作：不可分解；可被动作执行者直接理解执行。</p>
+<p>分子动作：可分解；不可被动作执行者直接理解执行。</p>
+<p><strong>形式</strong>：能用五官感知到的都是形式。</p>
+<p><strong>意义</strong>：能用大脑去理解的都是意义。…的意思是什么？就是在询问意义。</p>
+<p>e. g. 你正在看的这句话就是形式，这句话的意思就是意义。</p>
+<p><strong>对象都有形式和意义两个方面。</strong></p>
+<p><strong>信息</strong>：日常中，信息和知识一个意思，指的是意义。</p>
+<p><strong>数据</strong>：指的是形式。</p>
+<p><strong>一般不区分信息和数据，即同时考虑两个侧面，不过随语境有所侧重。</strong></p>
+<hr>
+]]></content>
       <categories>
         <category>Introduction to Computing</category>
       </categories>
@@ -19,7 +50,23 @@
   <entry>
     <title>0. 引言</title>
     <url>/archives/CS0-0.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>全书伊始，先解释书名。计算入门，计算为主题，入门为定位。计算的含义丰富，在此意为计算科学(Computing Science)这一领域，它和计算机科学(Computer Science)的意思一致，至于为何选择这一名词是我的喜好。入门意思是从零开始，入门之后是基础，再之后就是主题进阶等等。总之，这本书适合那些之前从未接触过计算科学的newbie，是CS系列的开始。</p>
+<p>再回答几个你有必要问，我有必要答的问题。</p>
+<h3 id="1-计算科学是什么"><a class="markdownIt-Anchor" href="#1-计算科学是什么"></a> 1. 计算科学是什么？</h3>
+<blockquote>
+<p>认识是不断深入且没有穷尽的。</p>
+</blockquote>
+<p>很抱歉，我想用整本书来说明这个问题（笑死，其实整本书也说明不了）。所以，只在这摆上几个其他人关于这个问题的格言。</p>
+<h3 id="2-入门会把我带向哪里"><a class="markdownIt-Anchor" href="#2-入门会把我带向哪里"></a> 2. 入门，会把我带向哪里？</h3>
+<blockquote>
+<p>这当儿，我从书中抬起眼来，一切都已变得伟大，没有任何景象再令人吃惊。</p>
+</blockquote>
+<p>本书只聚焦于计算科学中最基本的概念，通过本书的学习，你可以丝滑地进入基础阶段的学习，但也仅此而已。因为入门阶段学的东西很基础，基础最有用，也最没用。最有用是理论方面的，它是理解学习其他知识的前提条件，没有这些，你脑子里会充满那些似是而非的认识，没法融会贯通，也就走不远；最没用是实用方面的，你无法直接应用这些基础创造出很实用很炫酷的物件来。计算科学发展日新月异，创造的产品越加复杂，基础有用，但仅有基础还不够，这就是为什么本书之后还有续篇的原因。但是，可以保证，在沿着这个系列持续学习时，你对这一领域的理解会越来越深，创造出的物件会越来越有用。</p>
+<h3 id="3-为何要写这本书"><a class="markdownIt-Anchor" href="#3-为何要写这本书"></a> 3.  为何要写这本书？</h3>
+<p>将对计算科学的认识连贯起来。计算科学源自数学，这使得它应该是构造性可推演的。但现在的计算课程有很多“跳步”，很多隐性知识。</p>
+<h3 id="4-本书结构"><a class="markdownIt-Anchor" href="#4-本书结构"></a> 4. 本书结构</h3>
+<p>本书包含多个章节，每个章节的题目就是这章内容的主题。因为本书聚焦于概念，所以每章开头，会有本章重点说明的概念的列表。</p>
+]]></content>
       <categories>
         <category>Introduction to Computing</category>
       </categories>
@@ -43,7 +90,11 @@
 <li>机器</li>
 <li></li>
 </ol>
+<h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 ]]></content>
+      <categories>
+        <category>Introduction to Computing</category>
+      </categories>
   </entry>
   <entry>
     <title>收藏</title>
@@ -286,16 +337,59 @@
     <title>hello, world</title>
     <url>/archives/helloworld.html</url>
     <content><![CDATA[<h2 id="关于本站"><a class="markdownIt-Anchor" href="#关于本站"></a> 关于本站</h2>
-<p>本站使用Hexo搭建，由GitHub Pages托管，以.fun作为域名，NexT作为主题，用Markdown生成文档。</p>
+<p>本站使用Hexo搭建，由GitHub Pages托管，以.fun作为域名，NexT作为主题，用Markdown生成文档，是我的个人博客网站。</p>
+<blockquote>
+<p>我有太多想谈的了，但作为博客，必须得进行取舍。所以</p>
+</blockquote>
 <h2 id="本站用来干什么"><a class="markdownIt-Anchor" href="#本站用来干什么"></a> 本站用来干什么</h2>
 <ul>
 <li>用来记录学习</li>
-<li></li>
+<li>用来</li>
 </ul>
 <h2 id="本站不用来干什么"><a class="markdownIt-Anchor" href="#本站不用来干什么"></a> 本站不用来干什么</h2>
 <ul>
-<li>不用来</li>
-<li></li>
+<li>不用来抒发</li>
+</ul>
+<h2 id="本站结构如何检索文章"><a class="markdownIt-Anchor" href="#本站结构如何检索文章"></a> 本站结构（如何检索文章）</h2>
+<ul>
+<li>最新文章：首页，归档</li>
+<li>关键字搜索：搜索</li>
+<li>某个主题（如CS，经济学）：标签</li>
+<li>系统性文章（例如笔记，系列）：分类</li>
+<li>常用网站，系列文章：收藏</li>
+<li>我的信息：关于</li>
+</ul>
+<h2 id="内容规范"><a class="markdownIt-Anchor" href="#内容规范"></a> 内容规范</h2>
+<ul>
+<li>
+<p>笔记类：</p>
+<ol>
+<li>文章名称格式：章节或主题</li>
+<li>添加分类：《<em>书名</em>》</li>
+<li>不需要添加标签。</li>
+<li>书名格式：作者-书名-版本，对于有简称的可以只写简称（如CSAPP），根据具体数目，可省略一些东西（如版本，作者）。</li>
+<li>不需要更改abbrlink。</li>
+</ol>
+</li>
+<li>
+<p>系列文章：</p>
+<ol>
+<li>使用收藏页加文章页进行管理，文章页在收藏页中，包含了目录和内容超链接。</li>
+<li>文章名称格式：章节+主题。</li>
+<li>添加分类，名称不加书名号。</li>
+<li>文章不需要添加标签。</li>
+<li>需要更改abbrlink。</li>
+</ol>
+</li>
+<li>
+<p>随笔文章：</p>
+<ol>
+<li>要添加标签。</li>
+<li>不用添加分类。</li>
+<li>不需要更改abbrlink。</li>
+<li>常用标签：CS、Math、语言、思维、随笔。</li>
+</ol>
+</li>
 </ul>
 ]]></content>
   </entry>
