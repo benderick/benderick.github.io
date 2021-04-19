@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>3 Programming</title>
+    <url>/archives/11fb06f.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>《Introduction to Computing》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2 Language</title>
+    <url>/archives/45f2745a.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>《Introduction to Computing》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>1 Computing</title>
+    <url>/archives/786891d8.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>《Introduction to Computing》</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2. 语言</title>
     <url>/archives/CS0-2.html</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>Introduction to Computing</category>
+        <category>计算入门</category>
       </categories>
   </entry>
   <entry>
     <title>1. 计算</title>
-    <url>/archives/CS0.html</url>
+    <url>/archives/CS0-1.html</url>
     <content><![CDATA[<h2 id="概念列表"><a class="markdownIt-Anchor" href="#概念列表"></a> 概念列表</h2>
 <ul>
 <li>认识、经验、知识</li>
@@ -44,7 +68,7 @@
 <hr>
 ]]></content>
       <categories>
-        <category>Introduction to Computing</category>
+        <category>计算入门</category>
       </categories>
   </entry>
   <entry>
@@ -68,7 +92,7 @@
 <p>本书包含多个章节，每个章节的题目就是这章内容的主题。因为本书聚焦于概念，所以每章开头，会有本章重点说明的概念的列表。</p>
 ]]></content>
       <categories>
-        <category>Introduction to Computing</category>
+        <category>计算入门</category>
       </categories>
   </entry>
   <entry>
@@ -93,7 +117,7 @@
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 ]]></content>
       <categories>
-        <category>Introduction to Computing</category>
+        <category>计算入门</category>
       </categories>
   </entry>
   <entry>
