@@ -63,33 +63,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3 Programming</title>
-    <url>/archives/11fb06f.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>《Introduction to Computing》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2 Language</title>
-    <url>/archives/45f2745a.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>《Introduction to Computing》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>1 Computing</title>
-    <url>/archives/786891d8.html</url>
-    <content><![CDATA[<video id="video" controls="" preload="none">
-    <source id="mp4" src="http://benderick.fun/archives/1.mp4" type="video/mp4">
-</video>
-]]></content>
-      <categories>
-        <category>《Introduction to Computing》</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2. 语言</title>
     <url>/archives/CS0-2.html</url>
     <content><![CDATA[]]></content>
@@ -146,6 +119,9 @@
 <p>认识是不断深入且没有穷尽的。</p>
 </blockquote>
 <p>很抱歉，我想用整本书来说明这个问题（笑死，其实整本书也说明不了）。所以，只在这摆上几个其他人关于这个问题的格言。</p>
+<ul>
+<li>[ ] <h4 style="color: red">TO DO</h4></li>
+</ul>
 <h3 id="2-入门会把我带向哪里"><a class="markdownIt-Anchor" href="#2-入门会把我带向哪里"></a> 2. 入门，会把我带向哪里？</h3>
 <blockquote>
 <p>这当儿，我从书中抬起眼来，一切都已变得伟大，没有任何景象再令人吃惊。</p>
@@ -163,7 +139,17 @@
   <entry>
     <title>计算基础</title>
     <url>/archives/CS1.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="目录"><a class="markdownIt-Anchor" href="#目录"></a> 目录</h2>
+<ol start="0">
+<li>引言</li>
+</ol>
+<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>本书是CS系列系统性文章的第二部，叫计算基础(Foundations of Computing)。</p>
+<h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
+]]></content>
+      <categories>
+        <category>计算基础</category>
+      </categories>
   </entry>
   <entry>
     <title>计算入门</title>
@@ -179,6 +165,8 @@
 <li>机器</li>
 <li></li>
 </ol>
+<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>本书是CS系列系统性文章的第一部，叫计算入门(Introduction to Computing)。</p>
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 ]]></content>
       <categories>
@@ -291,9 +279,9 @@
 <td><a href="https://www.cnblogs.com/">cnblogs.com</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>HelloGithub</td>
+<td>开源项目</td>
+<td><a href="http://hellogithub.com/">hellogithub.com</a></td>
 </tr>
 </tbody>
 </table>
